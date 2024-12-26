@@ -1,0 +1,12 @@
+# Aventura no Labirinto / João Victor de Jesus
+
+## Introdução
+Bem-vindo ao jogo "Aventura no Labirinto", onde você explora um labirinto desafiador. Use as setas do teclado para encontrar a saída.
+## Como executar
+1. Copie o repositório.
+2. Instale as dependências: `pip install -r requirements.txt`.
+3. Execute o jogo: `python main.py --name SeuNome`.
+
+## Controles
+- Use as setas do teclado para se mover.
+- Objetivo: Encontre a saída do labirinto ('S').
